@@ -1,2 +1,2 @@
-# pandaschallenge
-Homework 4 - Pandas Challenge
+# Pandas Project
+Pandas Project
